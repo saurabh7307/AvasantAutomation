@@ -31,7 +31,7 @@
 4. You can use any IDE like Eclipse.<br>
 
 
-**Don't forgot to reach out sau7307@gmail.com in case of any doubt**<br>
+**Don't forgot to reach out sau7307@gmail.com in case of any doubt.**<br>
 
 
 <br/>
